@@ -1,4 +1,4 @@
-import React from 'react'
+feat: import React from 'react'
 
 const Nutricao = () => {
   return <div>Nutricao</div>

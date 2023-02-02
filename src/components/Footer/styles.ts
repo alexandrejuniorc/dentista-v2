@@ -4,7 +4,7 @@ export const FooterContainer = styled('footer', {
   backgroundColor: '$blue200',
   bottom: 0,
   left: 0,
-  position: 'fixed',
+  // position: 'fixed',
   width: '100%',
 })
 
